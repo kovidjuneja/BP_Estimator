@@ -39,7 +39,8 @@ The model comprises three phases. The first phase includes three convolutional l
 
 The model achieved a correlation coefficient of 0.89 and a Root Mean Square Error of 8.9, while the standard PINN model had a correlation coefficient of 0.95 and a Root Mean Square Error of 5.3.
 
-You can access the results here:-https://github.com/kovidjuneja/BP_Estimator/blob/main/CNN%20(1).docx
+You can access the results here:-[https://github.com/kovidjuneja/BP_Estimator/blob/main/CNN%20(1).docx](https://github.com/kovidjuneja/BP_Estimator/blob/main/Result)
+
 # Report
 [(Back to top)](#table-of-contents)
 
