@@ -1,4 +1,4 @@
-![Banner](./merged_image.jpg)
+![Banner](./banner.jpg)
 
 # Blood Pressure Estimator
 
